@@ -1,0 +1,6 @@
+torch
+Pillow
+moviepy
+opencv-python
+tkinter
+pygame
